@@ -1,0 +1,26 @@
+
+nav {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:2rem;
+    gap:2rem;
+}
+
+#content {
+    display:flex;
+    justify-content:center;
+}
+
+.container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    width:60%;
+
+    margin-top: 2rem;
+    padding:1rem;
+    border:5px solid lightcoral;
+    border-radius:5px;
+}
